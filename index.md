@@ -1,6 +1,3 @@
 # Alysson M. Costa
-### Senior Lecturer - Operations Research
-### School of Mathematics and Statistics
-### University of Melbourne
 
-
+Brazilian, resident in Melbourne, Australia. Senior Lecturer in Operations Research at the University of Melbourne.
